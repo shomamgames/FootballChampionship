@@ -1,0 +1,16 @@
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.exe
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.deps.json
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.runtimeconfig.json
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.runtimeconfig.dev.json
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.dll
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\ref\VRChampionsCup.dll
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\bin\Debug\net5.0\VRChampionsCup.pdb
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.csprojAssemblyReference.cache
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.AssemblyInfoInputs.cache
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.AssemblyInfo.cs
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.csproj.CoreCompileInputs.cache
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.dll
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\ref\VRChampionsCup.dll
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.pdb
+C:\Users\001\source\repos\VRChampionsCup\VRChampionsCup\obj\Debug\net5.0\VRChampionsCup.genruntimeconfig.cache
